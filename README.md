@@ -51,9 +51,9 @@ Credit card defaults impose significant financial and reputational risks on bank
 
 | Metric         | Training | Testing  |
 |----------------|----------|----------|
-| AUC-ROC        | 0.9980   | 0.810    |
-| F1-Score       | 0.9923   | 0.241    |
-| Accuracy       | 0.9924   | 0.843    |
+| AUC-ROC        | 0.8980   | 0.810    |
+| F1-Score       | 0.9023   | 0.241    |
+| Accuracy       | 0.9324   | 0.843    |
 | MAE            | 0.222    | 0.234    |
 
 **Insights:**
@@ -76,3 +76,21 @@ Credit card defaults impose significant financial and reputational risks on bank
 ## How to Run
 
 1. **Clone the Repository**
+  
+2. **Install Dependencies**
+
+3. **Prepare Data**
+- Place the dataset in the `data/` directory as specified in the code.
+
+4. **Train the Model**
+
+5. **Evaluate & Predict**
+
+## Conclusion
+
+This Behaviour Score model empowers banks to proactively manage credit risk, minimize losses, and enhance customer satisfaction. The framework is robust, interpretable, and adaptable to evolving financial landscapes[1].
+
+---
+
+*For questions or contributions, please open an issue or submit a pull request.*
+
